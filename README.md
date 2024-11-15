@@ -11,3 +11,7 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+
+### Apercu visuelle
+
+![Capture d’écran du 2024-11-15 12-15-41](https://github.com/user-attachments/assets/7f9d0927-7dd1-4c01-9fa6-365407564345)
